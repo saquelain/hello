@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3741091826",
+    "project_id": "scratch5",
+    "storage_bucket": "scratch5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3741091826:android:d29a084f8b66dd7a6c8d6b",
+        "android_client_info": {
+          "package_name": "com.saquelain.scratch5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3741091826-vf9738t76sencqo86n2fl57jj4vi6t34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpzdjcXal9mnnSxtZcyGo1HL79R8PB_WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3741091826-vf9738t76sencqo86n2fl57jj4vi6t34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
